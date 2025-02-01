@@ -1,4 +1,8 @@
-## Hi there 👋
+## This is me :)
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/-HxZPr742BwAAAAC/meme-cat.gif ">
+</div>
 
 <!--
 **Sampyx/Sampyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
